@@ -1,0 +1,3 @@
+(let a "Hello");
+
+(print "the value of a is " a);
